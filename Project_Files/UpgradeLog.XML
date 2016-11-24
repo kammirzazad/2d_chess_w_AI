@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FINAL-PROJECT">
+</Property><Property Name="Solution File" Value="C:\Users\Mirza Zad\Desktop\CHESSSSSSS\FINAL-PROJECT\FINAL-PROJECT.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Mirza Zad\Desktop\CHESSSSSSS\FINAL-PROJECT\FINAL-PROJECT.suo">
+</Property><Property Name="Date" Value="21 Ocak 2013 Pazartesi">
+</Property><Property Name="Time" Value="22:41">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FINAL-PROJECT.sln" Description="File successfully backed up as C:\Users\Mirza Zad\Desktop\CHESSSSSSS\FINAL-PROJECT\FINAL-PROJECT.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="FINAL-PROJECT.suo" Description="File successfully backed up as C:\Users\Mirza Zad\Desktop\CHESSSSSSS\FINAL-PROJECT\FINAL-PROJECT.suo.old">
+</Event><Event ErrorLevel="0" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="Converting project file 'C:\Users\Mirza Zad\Desktop\CHESSSSSSS\FINAL-PROJECT\FINAL-PROJECT.vcproj'.">
+</Event><Event ErrorLevel="1" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="Done converting to new project file 'C:\Users\Mirza Zad\Desktop\CHESSSSSSS\FINAL-PROJECT\FINAL-PROJECT.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="FINAL-PROJECT" Source="FINAL-PROJECT.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FINAL-PROJECT.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FINAL-PROJECT.sln" Description="Converted">
+</Event></UpgradeLog>
